@@ -1,4 +1,4 @@
-FROM debian:sid
+FROM debian:trixie
 
 ENV DEBIAN_FRONTEND=noninteractive
 
